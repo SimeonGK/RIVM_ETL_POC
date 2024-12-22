@@ -1,0 +1,21 @@
+,patient_identifier,surgery_type,operation_date,side_of_operation,prior_surgery,discharge_datetime,readmit_date,specialty,reop_date,sample_id,culture_material,microbiology_result,antibiotic_code,antibiotic_start,antibiotic_end
+0,691fd019,TotalKnee,2021-06-04,Left,No,2021-07-28 00:00:00,01/23/2021,Orthopedics,19-04-2022,5421,BloodSample,Negative,29536,2021/01/13,28/02/2022
+1,8f3a5109,HipReplacement,2022-02-12,Right,Yes,2020-04-11 00:00:00,07/21/2021,GeneralSurgery,04-03-2021,1630,WoundFluid,Positive,53475,2021/08/02,29/03/2020
+2,9421bdda,PartialKnee,2022-12-03,Right,No,2020-03-08 00:00:00,09/20/2022,Orthopedics,18-03-2020,3160,BloodSample,Negative,28469,2021/08/11,15/07/2020
+3,43432c4c,PartialKnee,2020-03-19,Left,No,2021-10-08 00:00:00,01/11/2022,Orthopedics,04-03-2020,5872,WoundFluid,Positive,74887,2021/09/20,24/04/2021
+4,285b95be,PartialKnee,2022-09-27,Left,No,2020-01-05 00:00:00,09/29/2020,TraumaUnit,27-12-2020,7643,WoundFluid,Positive,78761,2020/11/15,18/04/2020
+5,50147429,HipReplacement,2021-11-13,Left,No,2021-11-14 00:00:00,12/08/2021,TraumaUnit,15-06-2020,3365,BloodSample,Negative,11459,2022/09/09,26/08/2022
+6,bc00f59d,TotalKnee,2022-10-12,Right,No,2020-09-22 00:00:00,04/14/2022,Orthopedics,18-10-2022,1695,WoundFluid,Positive,27712,2021/03/31,21/01/2022
+7,f65f7629,HipReplacement,2020-03-10,Right,No,2021-03-23 00:00:00,05/06/2021,Orthopedics,12-11-2020,6208,WoundFluid,Negative,32394,2020/04/09,09/12/2022
+8,bf1b9ab0,TotalKnee,2020-01-13,Right,No,2020-01-11 00:00:00,06/27/2020,Orthopedics,07-01-2021,8223,BloodSample,Positive,38898,2021/03/02,19/10/2022
+9,6bde8690,HipReplacement,2021-09-02,Left,No,2020-04-26 00:00:00,04/06/2021,Orthopedics,01-02-2020,9535,WoundFluid,Positive,25756,2020/07/04,17/06/2021
+10,51703048,TotalKnee,2022-11-10,Right,No,2021-12-11 00:00:00,03/03/2022,GeneralSurgery,18-10-2020,4848,WoundFluid,Negative,81616,2020/07/12,26/03/2021
+11,339cb0f7,TotalKnee,2021-01-30,Left,No,2021-10-14 00:00:00,05/21/2022,Orthopedics,28-04-2022,7923,WoundFluid,Negative,42081,2022/09/23,15/10/2022
+12,55132d51,PartialKnee,2021-05-17,Right,No,2021-08-15 00:00:00,04/17/2020,Orthopedics,26-03-2022,6030,BloodSample,Positive,72591,2020/05/08,30/07/2022
+13,7421a923,TotalKnee,2020-03-27,Right,Yes,2020-12-28 00:00:00,04/06/2021,Orthopedics,23-11-2021,9381,WoundFluid,Positive,92466,2020/05/02,30/11/2022
+14,4f00d4fc,TotalKnee,2022-03-13,Right,Yes,2023-01-01 00:00:00,01/03/2022,Orthopedics,28-11-2022,7069,BloodSample,Negative,23486,2021/05/28,11/10/2021
+15,883dc5bb,TotalKnee,2021-07-07,Right,No,2022-01-07 00:00:00,07/16/2021,GeneralSurgery,21-09-2022,1282,BloodSample,Positive,32628,2021/07/02,03/12/2020
+16,b2e4f2fa,HipReplacement,2022-05-09,Right,No,2020-07-10 00:00:00,12/01/2021,GeneralSurgery,31-08-2022,5733,BloodSample,Positive,95464,2021/12/27,06/10/2020
+17,73cc75f7,HipReplacement,2021-09-12,Left,No,2021-07-19 00:00:00,11/10/2022,Orthopedics,05-01-2022,4118,BloodSample,Positive,11288,2020/07/06,15/12/2021
+18,d2f013d4,TotalKnee,2021-09-13,Left,No,2020-10-16 00:00:00,11/03/2020,TraumaUnit,21-05-2022,4554,BloodSample,Negative,72356,2022/06/03,20/10/2020
+19,ee86a3f3,PartialKnee,2020-12-30,Left,Yes,2020-05-17 00:00:00,07/23/2022,Orthopedics,08-11-2020,6550,WoundFluid,Negative,88101,2020/01/25,01/09/2022
